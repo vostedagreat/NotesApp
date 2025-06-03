@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="select_country">Select Country</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="select_gender">Select Gender</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_full_name">Enter Full Name</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="do_you_have_an_account">Do you have an account?</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_mail">Enter Mail</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="my_notes">My Notes</string>
+    <string name="activity_main_input_search_hint">Input search</string>
+    <string name="activity_create_note_input_note_title_hint">Note Title</string>
+    <string name="activity_create_note_input_note_subtitle_hint">Note Subtitle</string>
+    <string name="type_note_here">Type note here…</string>
+    <string name="layout_miscellaneous_text_miscellaneous_text">Miscellaneous</string>
+    <string name="layout_miscellaneous_text_pick_color_text">Pick Color</string>
+    <string name="layout_miscellaneous_text_add_image_text">Add Image</string>
+    <string name="layout_miscellaneous_text_add_url_text">Add URL</string>
+    <string name="layout_miscellaneous_text_delete_note_text">Delete Note</string>
+    <string name="layout_add_url_text_add_url_title_text">Add URL</string>
+    <string name="layout_add_url_input_url_hint">Enter URL</string>
+    <string name="layout_add_url_text_add_text">ADD</string>
+    <string name="layout_add_url_text_cancel_text">CANCEL</string>
+    <string name="layout_delete_note_text_delete_note_title_text">Delete Note</string>
+    <string name="layout_delete_note_text_delete_note_message_text">Are you sure want to delete this note?</string>
+    <string name="layout_delete_note_text_delete_note_text">DELETE NOTE</string>
+    <string name="layout_delete_note_text_cancel_text">CANCEL</string>
+
+
+</resources>

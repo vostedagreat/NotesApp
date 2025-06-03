@@ -1,0 +1,10 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Default stroke color (unfocused state) -->
+    <item android:color="@color/default_stroke_color" android:state_focused="false" android:state_hovered="false" android:state_enabled="true"/>
+
+    <!-- Stroke color when the TextInputLayout is focused -->
+    <item android:color="@color/focused_stroke_color" android:state_focused="true"/>
+
+    <!-- Stroke color when the TextInputLayout is disabled -->
+    <item android:color="@color/disabled_stroke_color" android:state_enabled="false"/>
+</selector>
